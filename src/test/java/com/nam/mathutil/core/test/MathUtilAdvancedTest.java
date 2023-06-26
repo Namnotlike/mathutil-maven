@@ -21,7 +21,7 @@ public class MathUtilAdvancedTest {
                                 {1, 1}, 
                                 {2, 2}, 
                                 {4, 24}, 
-                                {6, 720}};
+                                {6, 7200}};
         return testData;
     }
     @ParameterizedTest
